@@ -31,8 +31,8 @@ A clean, interactive web app built with **HTML**, **CSS**, and **JavaScript** th
 
 ## 📂 Project Structure
 
-📁 random-number-generator/
-├── index.html         # Main HTML structure
-├── style.css          # Styles for layout and appearance
-├── script.js          # JavaScript logic for number generation
-└── README.md          # Project description and instructions
+📁 random-number-generator/<br>
+├── index.html         # Main HTML structure<br>
+├── style.css          # Styles for layout and appearance<br>
+├── script.js          # JavaScript logic for number generation<br>
+└── README.md          # Project description and instructions<br>
